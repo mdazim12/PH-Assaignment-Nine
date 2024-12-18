@@ -1,0 +1,443 @@
+
+
+[
+    {
+      "id": 1,
+      "adventure_title": "Himalayan Peaks Expedition",
+      "image": "https://i.ibb.co.com/XL693MY/7808621514-8719c31aa5-k.jpg",
+      "category_name": "Mountain Trek",
+      "short_description": "A thrilling journey to the highest Himalayan peaks, perfect for seasoned trekkers.",
+      "adventure_cost": 2500,
+      "booking_availability": true,
+      "location": "Himalayas, Nepal",
+      "duration": "14 Days",
+      "adventure_level": "Hard",
+      "included_items": [
+        "Experienced Guides",
+        "Camping Equipment",
+        "Meals",
+        "Trekking Poles",
+        "First Aid Kit"
+      ],
+      "eco_friendly_features": [
+        "Waste Management",
+        "Eco-Friendly Trekking Gear",
+        "Carbon Offset Program"
+      ],
+      "max_group_size": 12,
+      "special_instructions": [
+        "Bring sturdy trekking boots",
+        "Prepare for high altitude trekking",
+        "Physical fitness required"
+      ]
+    },
+    {
+      "id": 2,
+      "adventure_title": "Rocky Mountains Wilderness",
+      "image": "https://i.ibb.co.com/2s4grqR/a18ec4d2018105fb8e2eb99bb915b89e.webp",
+      "category_name": "Mountain Trek",
+      "short_description": "Explore the wild beauty of the Rocky Mountains on this unforgettable trekking experience.",
+      "adventure_cost": 1800,
+      "booking_availability": true,
+      "location": "Rocky Mountains, USA",
+      "duration": "10 Days",
+      "adventure_level": "Medium",
+      "included_items": [
+        "Local Mountain Guides",
+        "Camping Gear",
+        "Meals and Snacks",
+        "Safety Equipment"
+      ],
+      "eco_friendly_features": [
+        "Leave No Trace Practices",
+        "Sustainable Food Sourcing",
+        "Use of Renewable Energy at Camps"
+      ],
+      "max_group_size": 15,
+      "special_instructions": [
+        "Bring waterproof clothing",
+        "Prepare for unpredictable weather",
+        "Pack light"
+      ]
+    },
+    {
+      "id": 3,
+      "adventure_title": "Andes Mountain Trek",
+      "image": "https://i.ibb.co.com/SmN8TJW/gettyimages-1225346915.jpg",
+      "category_name": "Mountain Trek",
+      "short_description": "Trek through the majestic Andes, with breathtaking views and a unique cultural experience.",
+      "adventure_cost": 2000,
+      "booking_availability": false,
+      "location": "Andes, Peru",
+      "duration": "12 Days",
+      "adventure_level": "Hard",
+      "included_items": [
+        "Mountain Guides",
+        "Porters for Luggage",
+        "Camping and Cooking Gear",
+        "Meals (Breakfast, Lunch, Dinner)",
+        "Emergency Medical Support"
+      ],
+      "eco_friendly_features": [
+        "Composting Toilets",
+        "Recycling Programs",
+        "Solar-Powered Campsites"
+      ],
+      "max_group_size": 10,
+      "special_instructions": [
+        "Requires prior trekking experience",
+        "Altitude sickness prevention advice",
+        "Cultural respect for indigenous communities"
+      ]
+    },
+    {
+      "id": 4,
+      "adventure_title": "Swiss Alps Expedition",
+      "image": "https://i.ibb.co.com/5rxH11j/new-cc-webpage-hero-1920x1080.jpg",
+      "category_name": "Mountain Trek",
+      "short_description": "A guided trek through the stunning Swiss Alps with panoramic views and diverse wildlife.",
+      "adventure_cost": 2200,
+      "booking_availability": true,
+      "location": "Swiss Alps, Switzerland",
+      "duration": "7 Days",
+      "adventure_level": "Medium",
+      "included_items": [
+        "Professional Guides",
+        "Accommodation in Mountain Lodges",
+        "Meals and Snacks",
+        "Trekking Equipment"
+      ],
+      "eco_friendly_features": [
+        "Use of Eco-Friendly Lodges",
+        "Water Conservation Measures",
+        "Sustainable Travel Practices"
+      ],
+      "max_group_size": 8,
+      "special_instructions": [
+        "Be prepared for alpine conditions",
+        "Fitness level for moderate altitude",
+        "Ensure to carry layered clothing"
+      ]
+    },
+    {
+      "id": 5,
+      "adventure_title": "Mount Fuji Sunrise Trek",
+      "image": "https://i.ibb.co.com/g4HP6sp/7a985ddb2db9c86ba24a60050bee3c3d.jpg",
+      "category_name": "Mountain Trek",
+      "short_description": "A once-in-a-lifetime experience to watch the sunrise from Japan's iconic Mount Fuji.",
+      "adventure_cost": 1500,
+      "booking_availability": true,
+      "location": "Mount Fuji, Japan",
+      "duration": "3 Days",
+      "adventure_level": "Medium",
+      "included_items": [
+        "Trekking Guides",
+        "Meals",
+        "Accommodation",
+        "Trekking Poles"
+      ],
+      "eco_friendly_features": [
+        "Zero Waste Campsites",
+        "Support for Local Conservation Projects",
+        "Eco-Friendly Transportation"
+      ],
+      "max_group_size": 20,
+      "special_instructions": [
+        "Prepare for cold weather at higher altitudes",
+        "Bring comfortable shoes for trekking",
+        "Avoid plastic bottles, use refillable ones"
+      ]
+    },
+    {
+      "id": 6,
+      "adventure_title": "Munnar Tea Estate Trek",
+      "image": "https://i.ibb.co.com/Xk924H0/kolukkumalai-tea-estate-munnar-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+      "category_name": "Mountain Trek",
+      "short_description": "A scenic trek through the lush green tea estates of Munnar in India.",
+      "adventure_cost": 1200,
+      "booking_availability": true,
+      "location": "Munnar, India",
+      "duration": "5 Days",
+      "adventure_level": "Easy",
+      "included_items": [
+        "Trekking Guides",
+        "Tea Estate Tour",
+        "Meals",
+        "Transport"
+      ],
+      "eco_friendly_features": [
+        "Sustainable Tea Farming Practices",
+        "Eco-Friendly Lodging",
+        "Wildlife Conservation"
+      ],
+      "max_group_size": 18,
+      "special_instructions": [
+        "Bring light trekking shoes",
+        "Expect rain, carry a poncho",
+        "Respect local culture"
+      ]
+    },
+    {
+      "id": 7,
+      "adventure_title": "Mount Kilimanjaro Trek",
+      "image": "https://i.ibb.co.com/9vZQTzK/kilimanjaro-mountain-tanzania.webp",
+      "category_name": "Mountain Trek",
+      "short_description": "Summit the highest mountain in Africa and experience breathtaking views of the Tanzanian landscape.",
+      "adventure_cost": 3000,
+      "booking_availability": true,
+      "location": "Mount Kilimanjaro, Tanzania",
+      "duration": "8 Days",
+      "adventure_level": "Hard",
+      "included_items": [
+        "Guided Trekking",
+        "Meals and Drinks",
+        "Camping Equipment",
+        "Porters"
+      ],
+      "eco_friendly_features": [
+        "Solar-Powered Campsites",
+        "Waste Reduction Programs",
+        "Environmentally Friendly Trekking Routes"
+      ],
+      "max_group_size": 10,
+      "special_instructions": [
+        "Requires previous trekking experience",
+        "High altitude may cause dizziness",
+        "Bring sufficient water"
+      ]
+    },
+    {
+      "id": 8,
+      "adventure_title": "Matterhorn Adventure",
+      "image": "https://i.ibb.co.com/XfnrCQR/climbing-the-matterhorn-zermatt.jpg",
+      "category_name": "Mountain Trek",
+      "short_description": "Experience the grandeur of the Matterhorn, one of the most iconic peaks in the Swiss Alps.",
+      "adventure_cost": 2700,
+      "booking_availability": true,
+      "location": "Matterhorn, Switzerland",
+      "duration": "10 Days",
+      "adventure_level": "Hard",
+      "included_items": [
+        "Climbing Guides",
+        "Meals and Drinks",
+        "Camping Equipment",
+        "Safety Gear"
+      ],
+      "eco_friendly_features": [
+        "Eco-Friendly Lodging",
+        "Recycling Initiatives",
+        "Green Energy Use at Base Camps"
+      ],
+      "max_group_size": 8,
+      "special_instructions": [
+        "Bring high-quality climbing gear",
+        "Physical endurance is necessary",
+        "Follow all safety protocols"
+      ]
+    },
+    {
+      "id": 9,
+      "adventure_title": "Banff National Park Trek",
+      "image": "https://i.ibb.co.com/ngrRxxp/Peyto-Lake-Banff-NP-Canada.jpg",
+      "category_name": "Mountain Trek",
+      "short_description": "Explore the spectacular scenery of Canada's Banff National Park on a guided trek.",
+      "adventure_cost": 2000,
+      "booking_availability": true,
+      "location": "Banff National Park, Canada",
+      "duration": "7 Days",
+      "adventure_level": "Medium",
+      "included_items": [
+        "Trekking Guides",
+        "Camping Gear",
+        "Meals",
+        "Transportation"
+      ],
+      "eco_friendly_features": [
+        "Leave No Trace Practices",
+        "Carbon Neutral Travel Options",
+        "Wildlife Preservation"
+      ],
+      "max_group_size": 15,
+      "special_instructions": [
+        "Carry sunscreen and water",
+        "Dress in layers",
+        "Prepare for wildlife sightings"
+      ]
+    },
+    {
+      "id": 10,
+      "adventure_title": "Corsica GR20 Trek",
+      "image": "https://i.ibb.co.com/SxBvh3q/b9613b-a4700f1739ec42f3aa84353e40d6ad2f-mv2.webp",
+      "category_name": "Mountain Trek",
+      "short_description": "One of Europe's most difficult but rewarding treks, through the rugged mountains of Corsica.",
+      "adventure_cost": 2200,
+      "booking_availability": true,
+      "location": "Corsica, France",
+      "duration": "12 Days",
+      "adventure_level": "Very Hard",
+      "included_items": [
+        "Guides",
+        "Meals and Snacks",
+        "Trekking Gear",
+        "Camping Equipment"
+      ],
+      "eco_friendly_features": [
+        "Minimal Impact Camping",
+        "Eco-Friendly Trail Maintenance",
+        "Local Food Sourcing"
+      ],
+      "max_group_size": 10,
+      "special_instructions": [
+        "Be prepared for challenging terrain",
+        "Hydrate regularly",
+        "Trekking shoes required"
+      ]
+    },
+    {
+      "id": 11,
+      "adventure_title": "Grand Canyon Rim to Rim Trek",
+      "image": "https://i.ibb.co.com/k4f3LWX/Colorful-Grand-Canyon-Things-to-do-in-Las-Vegas-Things-to-do-United-States-with-Gray-Line.jpg",
+      "category_name": "Mountain Trek",
+      "short_description": "Trek across the Grand Canyon from rim to rim, a challenging and iconic American adventure.",
+      "adventure_cost": 1700,
+      "booking_availability": true,
+      "location": "Grand Canyon, USA",
+      "duration": "6 Days",
+      "adventure_level": "Hard",
+      "included_items": [
+        "Guided Tours",
+        "Meals and Drinks",
+        "Camping Equipment",
+        "Transportation"
+      ],
+      "eco_friendly_features": [
+        "Eco-Friendly Campsites",
+        "Waste Reduction Programs",
+        "Solar-Powered Facilities"
+      ],
+      "max_group_size": 12,
+      "special_instructions": [
+        "Must be in good physical condition",
+        "Pack with weight limits",
+        "Be prepared for extreme temperatures"
+      ]
+    },
+    {
+      "id": 12,
+      "adventure_title": "Trollheimen Trek",
+      "image": "https://i.ibb.co.com/71YNmxL/01-Hiker-scaling-Besseggen.jpg",
+      "category_name": "Mountain Trek",
+      "short_description": "A beautiful journey through Norway's rugged mountains, exploring dramatic landscapes and serene lakes.",
+      "adventure_cost": 1500,
+      "booking_availability": true,
+      "location": "Trollheimen, Norway",
+      "duration": "8 Days",
+      "adventure_level": "Medium",
+      "included_items": [
+        "Guides",
+        "Meals",
+        "Camping Equipment",
+        "Safety Gear"
+      ],
+      "eco_friendly_features": [
+        "Eco-Friendly Campsites",
+        "Sustainable Hiking Trails",
+        "Wildlife Preservation"
+      ],
+      "max_group_size": 14,
+      "special_instructions": [
+        "Bring waterproof gear",
+        "Prepare for variable weather",
+        "Respect local wildlife"
+      ]
+    },
+    {
+      "id": 13,
+      "adventure_title": "Aoraki/Mount Cook Trek",
+      "image": "https://i.ibb.co.com/4R54btN/Hooker-Valley-Mount-Cook-National-Park-6-1024x683.jpg",
+      "category_name": "Mountain Trek",
+      "short_description": "Hike to New Zealand's highest peak with awe-inspiring views and alpine terrain.",
+      "adventure_cost": 2100,
+      "booking_availability": true,
+      "location": "Aoraki, New Zealand",
+      "duration": "9 Days",
+      "adventure_level": "Medium",
+      "included_items": [
+        "Guides",
+        "Meals",
+        "Trekking Gear",
+        "Transport"
+      ],
+      "eco_friendly_features": [
+        "Carbon Offset Travel",
+        "Eco-Friendly Lodging",
+        "Waste Management"
+      ],
+      "max_group_size": 10,
+      "special_instructions": [
+        "Altitude sickness can occur",
+        "Bring warm clothing",
+        "Stay hydrated"
+      ]
+    },
+    {
+      "id": 14,
+      "adventure_title": "Zanskar River Trek",
+      "image": "https://i.ibb.co.com/1nwwnSq/chadar-image-one-Fotor-Fotor.webp",
+      "category_name": "Mountain Trek",
+      "short_description": "A unique river trek in the Zanskar region of India, following ancient trails along the river.",
+      "adventure_cost": 2400,
+      "booking_availability": false,
+      "location": "Zanskar, India",
+      "duration": "15 Days",
+      "adventure_level": "Hard",
+      "included_items": [
+        "Guides",
+        "Meals",
+        "Camping Gear",
+        "Porters"
+      ],
+      "eco_friendly_features": [
+        "Leave No Trace",
+        "Support for Local Villages",
+        "Solar-Powered Campsites"
+      ],
+      "max_group_size": 12,
+      "special_instructions": [
+        "Requires prior trekking experience",
+        "Prepare for remote conditions",
+        "High altitude trek"
+      ]
+    },
+    {
+      "id": 15,
+      "adventure_title": "Everest Base Camp Trek",
+      "image": "https://i.ibb.co.com/GQhyHTD/Everest-Base-camp-Trek-in-December.jpg",
+      "category_name": "Mountain Trek",
+      "short_description": "The ultimate trekking experience leading to the base camp of the world's highest peak.",
+      "adventure_cost": 3200,
+      "booking_availability": true,
+      "location": "Everest, Nepal",
+      "duration": "12 Days",
+      "adventure_level": "Hard",
+      "included_items": [
+        "Experienced Guides",
+        "Porters",
+        "Meals and Snacks",
+        "Camping Gear"
+      ],
+      "eco_friendly_features": [
+        "Eco-Friendly Lodging",
+        "Carbon Offset Programs",
+        "Waste Reduction Initiatives"
+      ],
+      "max_group_size": 14,
+      "special_instructions": [
+        "High altitude trek",
+        "Fitness required for altitude",
+        "Carry necessary medications"
+      ]
+    }
+  ]
+  
+  

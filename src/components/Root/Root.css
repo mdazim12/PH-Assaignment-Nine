@@ -1,0 +1,38 @@
+
+/* Ensure the body and html take up the full height of the viewport */
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+
+.root-layout {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; 
+}
+
+.content {
+    flex: 1; 
+    
+   
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: #fff; 
+    box-shadow: 5px 5px 5px #ededed;
+}
+
+
+.footer {
+    background-color: #f8f8f8; 
+    text-align: center; 
+    padding: 10px;
+}
+
+.active {
+    background: linear-gradient(to right, indigo, skyblue, emerald)!important;
+  }
